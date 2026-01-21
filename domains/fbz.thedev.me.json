@@ -1,0 +1,13 @@
+{
+  "subdomain": "fbz",
+  "domain": "thedev.me",
+  "email_or_discord": "brenofabrizio2018@gmail.com",
+  "github_username": "DevFbz",
+  "description": "Personal homepage/blogpage",
+
+  "records": {
+    "TXT":   ["vc-domain-verify=fbz.thedev.me,c34edf762bccfed1efcf"]
+  },
+
+  "proxied": false
+}
