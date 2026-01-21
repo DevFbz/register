@@ -6,9 +6,13 @@
   "description": "Personal my portofolio",
 
   "records": {
-    "CNAME": [
-      "my-portfolio-murex-five-69.vercel.app"
-    ]
+    "TXT": [
+      "_vercel=vc-domain-verify=fbz.thedev.me,c34edf762bccfed1efcf"
+    ],
+  "CNAME":[
+    "9cf702962863563b.vercel-dns-017.com."
+  ]
+    
   },
   "proxied": false
 }
